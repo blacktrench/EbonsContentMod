@@ -1723,7 +1723,7 @@
 
   {
     "Key": "Bloodmarked.Description",
-    "enGB": "Bloodmarked, like werebats, are generally communal and often defer readily to their superiors within their flocks or even other leaders or employers. They tend to be gregarious yet savage, and enjoy using their unassuming natural forms to trick others before revealing their true bestial powers. Bloodmarked reveal their human ancestry in their ability to break from the group, make their own choices, and associate with humans without trying to force their way of life upon them, although troublemakers are strongly frowned upon and find it hard to get any other werebat-kin to take their side if in opposition to the group. \nLike werebats, bloodmarked are fond of elaborate social ceremonies that strengthen group cohesion and loyalty. \nWerebat-kin ceremonies often involve wearing bat skins, sacrificing animals or humanoids, and drinking blood. \nWerebat-kin are most commonly found near dense forests and jungles. With little trust for outsiders, werebat-kin often form insular communities at the fringes of civilized societies, with each bloodmarked being loyal to every member of the community and whichever leader has bested all challengers. Like other skinwalkers, however, bloodmarked are typically born into societies that don’t include others of their kind, and these individuals are inclined to seek out surrogate flocks, generally in the form of violent gangs, tight-knit adventuring parties, or even insular academic circles, according to the individual’s disposition. Bloodmarked are generally tall and slight, with dark hair and severe features. Poor eyesight is relatively common among werebat-kin, though they often hear and smell well enough to make up for it.\nBloodmarked skinwalkers receive a +2 racial bonus to Dexterity, a -2 penalty to Wisdom, and a +2 racial bonus to Athletics and Perception skills. When in their bestial form, they gain a +2 racial bonus to Charisma, a primary bite attack that deals 1d6 damage, and +10 foot racial bonus to movement speed."
+    "enGB": "Bloodmarked, like werebats, are generally communal and often defer readily to their superiors within their flocks or even other leaders or employers. They tend to be gregarious yet savage, and enjoy using their unassuming natural forms to trick others before revealing their true bestial powers. Bloodmarked reveal their human ancestry in their ability to break from the group, make their own choices, and associate with humans without trying to force their way of life upon them, although troublemakers are strongly frowned upon and find it hard to get any other werebat-kin to take their side if in opposition to the group. \nLike werebats, bloodmarked are fond of elaborate social ceremonies that strengthen group cohesion and loyalty. \nWerebat-kin ceremonies often involve wearing bat skins, sacrificing animals or humanoids, and drinking blood. \nWerebat-kin are most commonly found near dense forests and jungles. With little trust for outsiders, werebat-kin often form insular communities at the fringes of civilized societies, with each bloodmarked being loyal to every member of the community and whichever leader has bested all challengers. Like other skinwalkers, however, bloodmarked are typically born into societies that don’t include others of their kind, and these individuals are inclined to seek out surrogate flocks, generally in the form of violent gangs, tight-knit adventuring parties, or even insular academic circles, according to the individual’s disposition. Bloodmarked are generally tall and slight, with dark hair and severe features. Poor eyesight is relatively common among werebat-kin, though they often hear and smell well enough to make up for it.\nBloodmarked skinwalkers receive a +2 racial bonus to Intelligence, a -2 penalty to Wisdom, and a +2 racial bonus to Mobility and Perception skills. When in their bestial form, they gain a +2 racial bonus to Dexterity, a primary bite attack that deals 1d6 damage, and +4 racial bonus to Perception."
   },
 
   {
@@ -1734,7 +1734,7 @@
 
   {
     "Key": "Bloodmarked.Skilled.Description",
-    "enGB": "Bloodmarked skinwalkers recieve a +2 racial bonus to Athletics and Perception skill checks."
+    "enGB": "Bloodmarked skinwalkers recieve a +2 racial bonus to Mobility and Perception skill checks."
   },
 
   {
@@ -1745,7 +1745,7 @@
 
   {
     "Key": "Bloodmarked.ChangeShape.Description",
-    "enGB": "A bloodmarked skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a bloodmarked skinwalker gains a +2 racial bonus to Charisma. While in this form, a bloodmarked skinwalker also gains a primary bite attack that deals 1d6 damage and a +10 racial bonus to movement speed."
+    "enGB": "A bloodmarked skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a bloodmarked skinwalker gains a +2 racial bonus to Dexterity. While in this form, a bloodmarked skinwalker also gains a primary bite attack that deals 1d6 damage and a +4 racial bonus to Perception."
   },
 
   {
